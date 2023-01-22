@@ -1,0 +1,18 @@
+p {
+  color: red;
+}
+#p1 {
+  color: red;
+}
+p {
+  color: green;
+}
+ul#sarapan li {
+  color: grey;
+}
+.favorit {
+  color: red;
+}
+ul#sarapan li.favorit {
+  color: darkred;
+}
